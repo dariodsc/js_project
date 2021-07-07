@@ -1,2 +1,4 @@
 # js_project
-Teste em JS
+Meus teste de JavaScript
+
+Meus projetos de estudo e futuros projetos
